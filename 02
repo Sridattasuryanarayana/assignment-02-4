@@ -1,0 +1,4 @@
+tuple1=(21,13,59,7)
+tuple2=(45,11,61,89,4)
+tuple3=tuple1+tuple2
+print(tuple3)
